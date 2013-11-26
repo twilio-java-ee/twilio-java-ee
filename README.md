@@ -5,6 +5,3 @@ Java library to use Twilio services in java ee6 containers (ex. jboss 7.x)
 
 For more informations: [twiliofaces.org](http://twiliofaces.org)
 
-
-
-
